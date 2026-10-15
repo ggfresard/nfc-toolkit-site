@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ggfresard.github.io/nfc-toolkit-site/sitemap.xml
